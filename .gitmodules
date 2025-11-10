@@ -1,0 +1,20 @@
+[submodule "3rdParty/ImGui_Docking"]
+	path = 3rdParty/ImGui_Docking
+	url = https://github.com/ocornut/imgui.git
+	branch = docking
+[submodule "3rdParty/ImGui_FileDialog"]
+	path = 3rdParty/ImGui_FileDialog
+	url = https://github.com/aiekick/ImGuiFileDialog.git
+	branch = master
+[submodule "3rdParty/ImGui_ImPlot"]
+	path = 3rdParty/ImGui_ImPlot
+	url = https://github.com/epezent/implot.git
+	branch = master
+[submodule "3rdParty/Freetype2"]
+	path = 3rdParty/Freetype2
+	url = https://github.com/freetype/freetype2.git
+	branch = master
+[submodule "3rdparty/TinyXml2"]
+	path = 3rdparty/TinyXml2
+	url = https://github.com/leethomason/tinyxml2.git
+	branch = master

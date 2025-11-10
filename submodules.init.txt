@@ -1,0 +1,5 @@
+﻿git submodule add --force -b "docking" https://github.com/ocornut/imgui.git 3rdParty/ImGui_Docking
+git submodule add --force -b "master" https://github.com/aiekick/ImGui_FileDialog.git 3rdParty/ImGui_FileDialog
+git submodule add --force -b "master" https://github.com/epezent/implot.git 3rdParty/ImGui_ImPlot
+git submodule add --force -b "master" https://github.com/freetype/freetype2.git 3rdParty/Freetype2
+git submodule add --force -b "master" https://github.com/leethomason/tinyxml2.git 3rdparty/TinyXml2
